@@ -25,13 +25,13 @@ jobs:
         run: |
           JOKE="${{ steps.joke.outputs.joke }}"
           TIMESTAMP=$(date -u '+%B %d, %Y at %H:%M UTC')
-          sed -i "/<!-- DAD_JOKE_START -->/,/<!-- DAD_JOKE_END -->/{
-            /<!-- DAD_JOKE_START -->/!{/<!-- DAD_JOKE_END -->/!d}
-            /<!-- DAD_JOKE_START -->/a\\
-> $JOKE\
-\
-*Added at: $TIMESTAMP*
-          }" README.md
+          python3 -c "
+          import re, sys
+          content = open('README.md').read()
+          replacement = '<!-- DAD_JOKE_START -->\n> ' + sys.argv[1] + '\n\n*Added at: ' + sys.argv[2] + '*\n<!-- DAD_JOKE_END -->'
+          content = re.sub(r'<!-- DAD_JOKE_START -->.*?<!-- DAD_JOKE_END -->', replacement, content, flags=re.DOTALL)
+          open('README.md', 'w').write(content)
+          " "$JOKE" "$TIMESTAMP"
 
       - name: Commit and push
         run: |
