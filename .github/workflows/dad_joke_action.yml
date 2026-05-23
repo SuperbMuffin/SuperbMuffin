@@ -1,38 +1,36 @@
 name: Update Dad Joke
-
 on:
   schedule:
     - cron: '0 9 * * *'
   workflow_dispatch:
-
 jobs:
   update-joke:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
       - name: Fetch a dad joke
         id: joke
         run: |
           JOKE=$(curl -s -H "Accept: application/json" https://icanhazdadjoke.com/ | jq -r '.joke')
           echo "joke=$JOKE" >> $GITHUB_OUTPUT
-
+          echo "timestamp=$(date -u '+%B %d, %Y at %H:%M UTC')" >> $GITHUB_OUTPUT
       - name: Update README
+        env:
+          JOKE: ${{ steps.joke.outputs.joke }}
+          TIMESTAMP: ${{ steps.joke.outputs.timestamp }}
         run: |
-          JOKE="${{ steps.joke.outputs.joke }}"
-          TIMESTAMP=$(date -u '+%B %d, %Y at %H:%M UTC')
           python3 -c "
-          import re, sys
+          import re, os
+          joke = os.environ['JOKE']
+          timestamp = os.environ['TIMESTAMP']
           content = open('README.md').read()
-          replacement = '<!-- DAD_JOKE_START -->\n> ' + sys.argv[1] + '\n\n*Added at: ' + sys.argv[2] + '*\n<!-- DAD_JOKE_END -->'
+          replacement = '<!-- DAD_JOKE_START -->\n> ' + joke + '\n\n*Added at: ' + timestamp + '*\n<!-- DAD_JOKE_END -->'
           content = re.sub(r'<!-- DAD_JOKE_START -->.*?<!-- DAD_JOKE_END -->', replacement, content, flags=re.DOTALL)
           open('README.md', 'w').write(content)
-          " "$JOKE" "$TIMESTAMP"
-
+          "
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
