@@ -2,7 +2,7 @@ I make stuff!
 ---
 
 <!-- DAD_JOKE_START -->
-> Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
+> I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
-*Added at: May 24, 2026 at 10:27 UTC*
+*Added at: May 24, 2026 at 11:25 UTC*
 <!-- DAD_JOKE_END -->
