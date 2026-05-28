@@ -2,7 +2,7 @@ I make stuff!
 ---
 
 <!-- DAD_JOKE_START -->
-> Why don't skeletons ride roller coasters? They don't have the stomach for it.
+> A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
 
-*Added at: May 27, 2026 at 14:41 UTC*
+*Added at: May 28, 2026 at 12:22 UTC*
 <!-- DAD_JOKE_END -->
