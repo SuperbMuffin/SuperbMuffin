@@ -2,7 +2,7 @@ I make stuff!
 ---
 
 <!-- DAD_JOKE_START -->
-> Where do rabbits go after they get married? On a bunny-moon.
+> What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
 
-*Added at: June 12, 2026 at 12:14 UTC*
+*Added at: June 13, 2026 at 11:11 UTC*
 <!-- DAD_JOKE_END -->
