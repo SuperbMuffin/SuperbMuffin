@@ -2,7 +2,7 @@ I make stuff!
 ---
 
 <!-- DAD_JOKE_START -->
-> Did you hear about the runner who was criticized? He just took it in stride
+> Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
 
-*Added at: June 24, 2026 at 11:41 UTC*
+*Added at: June 25, 2026 at 11:36 UTC*
 <!-- DAD_JOKE_END -->
