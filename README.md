@@ -2,7 +2,7 @@ I make stuff!
 ---
 
 <!-- DAD_JOKE_START -->
-> What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
+> A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
 
-*Added at: July 05, 2026 at 11:01 UTC*
+*Added at: July 06, 2026 at 12:41 UTC*
 <!-- DAD_JOKE_END -->
