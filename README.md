@@ -2,7 +2,7 @@ I make stuff!
 ---
 
 <!-- DAD_JOKE_START -->
-> My cat was just sick on the carpet, I don’t think it’s feline well.
+> So a duck walks into a pharmacy and says “Give me some chap-stick… and put it on my bill”
 
-*Added at: July 15, 2026 at 10:43 UTC*
+*Added at: July 16, 2026 at 10:53 UTC*
 <!-- DAD_JOKE_END -->
