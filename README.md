@@ -2,7 +2,7 @@ I make stuff!
 ---
 
 <!-- DAD_JOKE_START -->
-> People are shocked to discover I have a police record but I love their greatest hits!
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
-*Added at: August 06, 2026 at 11:15 UTC, by [this action](https://github.com/SuperbMuffin/SuperbMuffin/blob/main/.github/workflows/dad_joke_action.yml)*
+*Added at: August 07, 2026 at 09:55 UTC, by [this action](https://github.com/SuperbMuffin/SuperbMuffin/blob/main/.github/workflows/dad_joke_action.yml)*
 <!-- DAD_JOKE_END -->
