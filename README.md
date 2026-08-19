@@ -2,7 +2,7 @@ I make stuff!
 ---
 
 <!-- DAD_JOKE_START -->
-> Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
+> I knew a guy who collected candy canes, they were all in mint condition
 
-*Added at: August 18, 2026 at 09:26 UTC, by [this action](https://github.com/SuperbMuffin/SuperbMuffin/blob/main/.github/workflows/dad_joke_action.yml)*
+*Added at: August 19, 2026 at 09:27 UTC, by [this action](https://github.com/SuperbMuffin/SuperbMuffin/blob/main/.github/workflows/dad_joke_action.yml)*
 <!-- DAD_JOKE_END -->
