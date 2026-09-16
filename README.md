@@ -2,7 +2,7 @@ I make stuff!
 ---
 
 <!-- DAD_JOKE_START -->
-> Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
+> I’ve just been reading a book about anti-gravity, it’s impossible to put down!
 
-*Added at: September 15, 2026 at 14:05 UTC, by [this action](https://github.com/SuperbMuffin/SuperbMuffin/blob/main/.github/workflows/dad_joke_action.yml)*
+*Added at: September 16, 2026 at 13:58 UTC, by [this action](https://github.com/SuperbMuffin/SuperbMuffin/blob/main/.github/workflows/dad_joke_action.yml)*
 <!-- DAD_JOKE_END -->
