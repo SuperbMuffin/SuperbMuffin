@@ -2,7 +2,7 @@ I make stuff!
 ---
 
 <!-- DAD_JOKE_START -->
-> Have you heard about corduroy pillows?  They're making headlines!
+> My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
-*Added at: September 26, 2026 at 13:34 UTC, by [this action](https://github.com/SuperbMuffin/SuperbMuffin/blob/main/.github/workflows/dad_joke_action.yml)*
+*Added at: September 27, 2026 at 14:30 UTC, by [this action](https://github.com/SuperbMuffin/SuperbMuffin/blob/main/.github/workflows/dad_joke_action.yml)*
 <!-- DAD_JOKE_END -->
