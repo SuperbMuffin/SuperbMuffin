@@ -2,7 +2,7 @@ I make stuff!
 ---
 
 <!-- DAD_JOKE_START -->
-> What's a ninja's favorite type of shoes? Sneakers!
+> I just broke my guitar. It's okay, I won't fret
 
-*Added at: October 19, 2026 at 16:06 UTC, by [this action](https://github.com/SuperbMuffin/SuperbMuffin/blob/main/.github/workflows/dad_joke_action.yml)*
+*Added at: October 20, 2026 at 14:01 UTC, by [this action](https://github.com/SuperbMuffin/SuperbMuffin/blob/main/.github/workflows/dad_joke_action.yml)*
 <!-- DAD_JOKE_END -->
