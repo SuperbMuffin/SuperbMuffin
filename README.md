@@ -2,7 +2,7 @@ I make stuff!
 ---
 
 <!-- DAD_JOKE_START -->
-> What has a bed that you can’t sleep in? A river.
+> I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
 
-*Added at: November 15, 2026 at 16:00 UTC, by [this action](https://github.com/SuperbMuffin/SuperbMuffin/blob/main/.github/workflows/dad_joke_action.yml)*
+*Added at: November 16, 2026 at 19:10 UTC, by [this action](https://github.com/SuperbMuffin/SuperbMuffin/blob/main/.github/workflows/dad_joke_action.yml)*
 <!-- DAD_JOKE_END -->
